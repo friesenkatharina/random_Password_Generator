@@ -34,3 +34,7 @@ Important Points:
 - **Error Handling**: The `writeText()` method returns a promise, so it makes sense to use `.then()` and `.catch()` for success and error handling.
 
 - **Permissions**: Note that users may need to adjust their permissions to allow copying to the clipboard, especially when used in some browsers or environments.
+
+<!-- Browser -->
+
+![Mein Bild](./imgs/Bildschirmfoto%20vom%202023-10-31%2010-39-10.png)
